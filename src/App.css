@@ -13,6 +13,10 @@
   }
 }
 
+.nav-wrapper{
+  background-color:black;color:white
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +39,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.heading{
+  text-align: center;
 }
